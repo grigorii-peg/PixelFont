@@ -1,8 +1,0 @@
-C:\Users\Admin\Desktop\С++\C#\PixelFont\bin\Debug\PixelFont.exe.config
-C:\Users\Admin\Desktop\С++\C#\PixelFont\bin\Debug\PixelFont.exe
-C:\Users\Admin\Desktop\С++\C#\PixelFont\bin\Debug\PixelFont.pdb
-C:\Users\Admin\Desktop\С++\C#\PixelFont\obj\Debug\PixelFont.csproj.AssemblyReference.cache
-C:\Users\Admin\Desktop\С++\C#\PixelFont\obj\Debug\PixelFont.csproj.SuggestedBindingRedirects.cache
-C:\Users\Admin\Desktop\С++\C#\PixelFont\obj\Debug\PixelFont.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\С++\C#\PixelFont\obj\Debug\PixelFont.exe
-C:\Users\Admin\Desktop\С++\C#\PixelFont\obj\Debug\PixelFont.pdb
